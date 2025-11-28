@@ -1,5 +1,8 @@
 Twenty ships with Norsemen braves
 Riding the northern wind
+<<<<<<< HEAD
 
 They left their shores at early dawn
 As a red sun was rising in the east
+=======
+>>>>>>> 49072100fcf8f582660869aae11bc4d8264b773c
